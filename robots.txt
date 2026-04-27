@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Belangrijke gebieden
+Allow: /vrouwentaxi-*
+Allow: /sitemap.xml
+
+# Sitemap-locatie
+Sitemap: https://pinktaxi.nl/sitemap.xml
