@@ -1,6 +1,6 @@
 # Pink Taxi — Vrouwentaxi Nederland
 
-> Pink Taxi is een Nederlands netwerk van 20 lokale taxibedrijven die zich
+> Pink Taxi is een Nederlands netwerk van 22 lokale taxibedrijven die zich
 > specialiseren in vrouwentaxi-service: taxiritten met (uitsluitend) vrouwelijke
 > chauffeurs, opgericht om vrouwen een veilige ervaring te bieden — vooral 's
 > nachts, na een avond uit, of voor vroege Schiphol-ritten. Pink Taxi is zelf
@@ -16,11 +16,11 @@ chauffeurs, taximeter, GPS-trackable ritten).
 
 ## Belangrijkste pagina's
 
-- [Pink Taxi hoofdsite](https://pinktaxi.nl/): overzicht van alle 20 partners, postcode-zoeker en kaart met alle locaties
+- [Pink Taxi hoofdsite](https://pinktaxi.nl/): overzicht van alle 22 partners, postcode-zoeker en kaart met alle locaties
 - [FAQ](https://pinktaxi.nl/#faq): veelgestelde vragen over vrouwentaxi's in Nederland
-- [Sitemap](https://pinktaxi.nl/sitemap.xml): alle 21 pagina's (hoofdpagina + 20 partner-detailpagina's)
+- [Sitemap](https://pinktaxi.nl/sitemap.xml): alle 23 pagina's (hoofdpagina + 22 partner-detailpagina's)
 
-## Vrouwentaxi-partners (20)
+## Vrouwentaxi-partners (22)
 
 Elke partner heeft een eigen detailpagina op pinktaxi.nl/{slug}.html
 
@@ -30,11 +30,13 @@ Elke partner heeft een eigen detailpagina op pinktaxi.nl/{slug}.html
 - [Female Taxi Drivers](https://pinktaxi.nl/amsterdam-female-taxi-drivers.html) — Amsterdam / Schiphol — 06-54766554
 - [Follow That Cab](https://pinktaxi.nl/lelystad-follow-that-cab.html) — Lelystad / Dronten — 06-55577755 — chauffeuse Kimberly
 - [Her Way Taxi](https://pinktaxi.nl/alphen-aan-den-rijn-her-way-taxi.html) — Alphen aan den Rijn — sinds 2025, Tesla — 06-44071564
+- [Ladycab Groningen](https://pinktaxi.nl/groningen-ladycab.html) — Groningen / Slochteren — Slochtermeenteweg 15, 9621 CM Slochteren — 06-40764367 — ZZP Linda Veenbaas, vaste klanten 10% korting
 - [Mama Taxi](https://pinktaxi.nl/rotterdam-mama-taxi.html) — Rotterdam — Weena 792, 3014 DA Rotterdam — 085-4019897 — info@mama-taxi.com — 100% Tesla
 - [Pink Lady Taxi](https://pinktaxi.nl/eindhoven-pink-lady-taxi.html) — Eindhoven — Pianostraat 17, 5642 RC Eindhoven — 040-7744074 — info@taxicentralelichtstad.nl
 - [Sanders Vrouwen Taxi](https://pinktaxi.nl/nijmegen-sanders-vrouwen-taxi.html) — Nijmegen — Th. van Heereveldstraat 9a, 6551 AK Weurt — 024-3444444 — info@taxisanders.nl
 - [Staxi Lady](https://pinktaxi.nl/amsterdam-staxi-lady.html) — Amsterdam — IJdoornlaan 805, 1025 AZ Amsterdam — sociale taxi-service
 - [Taxi Broos — LadyCab](https://pinktaxi.nl/alkmaar-taxi-broos-ladycab.html) — Alkmaar / Noord-Holland — 06-84056507
+- [Taxi Forever Maastricht](https://pinktaxi.nl/maastricht-taxi-forever.html) — Maastricht / Meerssen / Valkenburg — Gildenweg 51, 6214 SH Maastricht — 06-27625929 — V.O.F. Ed & Sacha (sinds 2015), chauffeuse Sacha rijdt avonden + vr/za nacht
 - [Taxi Ingrid](https://pinktaxi.nl/haarlem-taxi-ingrid.html) — Haarlem — Boris Pasternakstraat 17, 2037 ME Haarlem — 06-17148356
 - [Taxi Patron — Vrouwentaxi](https://pinktaxi.nl/oosterhout-taxi-patron.html) — Oosterhout / Breda — Van Veldekestraat 22, 4904 EZ Oosterhout — 0162-742374 / 076-7660066 — info@taxipatron.nl
 - [Taxi Pink](https://pinktaxi.nl/nieuw-vennep-taxi-pink.html) — Nieuw Vennep / Schiphol — Frankweg 67, 2153 PD Nieuw Vennep — 0252-752100 — centrale@taxipink.nl
@@ -47,12 +49,13 @@ Elke partner heeft een eigen detailpagina op pinktaxi.nl/{slug}.html
 
 ## Veelgestelde feiten over Pink Taxi en vrouwentaxi's
 
-- Het Pink Taxi-netwerk bestaat uit 20 zelfstandige Nederlandse taxibedrijven die elk vrouwelijke chauffeurs aanbieden.
+- Het Pink Taxi-netwerk bestaat uit 22 zelfstandige Nederlandse taxibedrijven die elk vrouwelijke chauffeurs aanbieden.
 - Pink Taxi heeft geen centrale boeking, geen app en geen eigen voertuigen. Klanten boeken direct bij de partner.
-- Pink Taxi-partners zijn actief in Amsterdam, Rotterdam, Utrecht, Eindhoven, Veldhoven, Nijmegen, Haarlem, Arnhem, Leiden, Breda, Oosterhout, Alphen aan den Rijn, Alkmaar, Vlaardingen, Nieuw Vennep, Lelystad, Dronten en Schiphol.
+- Pink Taxi-partners zijn actief in Amsterdam, Rotterdam, Utrecht, Eindhoven, Veldhoven, Maastricht, Groningen, Nijmegen, Haarlem, Arnhem, Leiden, Breda, Oosterhout, Alphen aan den Rijn, Alkmaar, Vlaardingen, Nieuw Vennep, Lelystad, Dronten, Slochteren en Schiphol.
 - Een vrouwentaxi rijdt onder dezelfde wettelijke tarieven als een reguliere taxi; er is geen extra vrouwentaxi-toeslag.
 - Sommige partners (zoals Diva Ride) zijn exclusief voor vrouwelijke passagiers; de meeste hebben alleen vrouwelijke chauffeurs maar mannen mogen meereizen.
 - Bolt biedt sinds 2024 in Amsterdam een "Women for Women"-optie aan binnen hun app — als enige platform in het Pink Taxi-overzicht.
+- Pink Taxi dekt nu heel Nederland, van Maastricht in het zuiden tot Slochteren in het noorden.
 
 ## Aanleiding en context
 
