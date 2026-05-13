@@ -1,0 +1,76 @@
+# Pink Taxi — Vrouwentaxi Nederland
+
+> Pink Taxi is een Nederlands netwerk van 20 lokale taxibedrijven die zich
+> specialiseren in vrouwentaxi-service: taxiritten met (uitsluitend) vrouwelijke
+> chauffeurs, opgericht om vrouwen een veilige ervaring te bieden — vooral 's
+> nachts, na een avond uit, of voor vroege Schiphol-ritten. Pink Taxi is zelf
+> geen taxibedrijf en geen app; het is een gids/netwerk dat klanten doorverwijst
+> naar de dichtstbijzijnde aangesloten partner.
+
+Pink Taxi is geen platform met centrale boekingen. Elke partner is een
+zelfstandige Nederlandse onderneming met eigen voertuigen, eigen taxivergunning
+en eigen tarieven. Klanten boeken rechtstreeks bij de partner via telefoon,
+WhatsApp, e-mail of de website van die partner. Pink Taxi-partners voldoen aan
+de wettelijke vereisten voor taxivervoer in Nederland (taxivergunning, VOG voor
+chauffeurs, taximeter, GPS-trackable ritten).
+
+## Belangrijkste pagina's
+
+- [Pink Taxi hoofdsite](https://pinktaxi.nl/): overzicht van alle 20 partners, postcode-zoeker en kaart met alle locaties
+- [FAQ](https://pinktaxi.nl/#faq): veelgestelde vragen over vrouwentaxi's in Nederland
+- [Sitemap](https://pinktaxi.nl/sitemap.xml): alle 21 pagina's (hoofdpagina + 20 partner-detailpagina's)
+
+## Vrouwentaxi-partners (20)
+
+Elke partner heeft een eigen detailpagina op pinktaxi.nl/{slug}.html
+
+- [Bolt — Women for Women](https://pinktaxi.nl/amsterdam-bolt-women-for-women.html) — Amsterdam — platform-optie binnen de Bolt-app, sinds 2024
+- [Diva Ride](https://pinktaxi.nl/amsterdam-diva-ride.html) — Amsterdam — app-only, exclusief voor vrouwelijke passagiers
+- [Eltax — Vrouwentaxi](https://pinktaxi.nl/leiden-eltax-vrouwentaxi.html) — Leiden — Kanaalstraat 47, 2313 NP Leiden — 071-5212144 — info@eltax.taxi
+- [Female Taxi Drivers](https://pinktaxi.nl/amsterdam-female-taxi-drivers.html) — Amsterdam / Schiphol — 06-54766554
+- [Follow That Cab](https://pinktaxi.nl/lelystad-follow-that-cab.html) — Lelystad / Dronten — 06-55577755 — chauffeuse Kimberly
+- [Her Way Taxi](https://pinktaxi.nl/alphen-aan-den-rijn-her-way-taxi.html) — Alphen aan den Rijn — sinds 2025, Tesla — 06-44071564
+- [Mama Taxi](https://pinktaxi.nl/rotterdam-mama-taxi.html) — Rotterdam — Weena 792, 3014 DA Rotterdam — 085-4019897 — info@mama-taxi.com — 100% Tesla
+- [Pink Lady Taxi](https://pinktaxi.nl/eindhoven-pink-lady-taxi.html) — Eindhoven — Pianostraat 17, 5642 RC Eindhoven — 040-7744074 — info@taxicentralelichtstad.nl
+- [Sanders Vrouwen Taxi](https://pinktaxi.nl/nijmegen-sanders-vrouwen-taxi.html) — Nijmegen — Th. van Heereveldstraat 9a, 6551 AK Weurt — 024-3444444 — info@taxisanders.nl
+- [Staxi Lady](https://pinktaxi.nl/amsterdam-staxi-lady.html) — Amsterdam — IJdoornlaan 805, 1025 AZ Amsterdam — sociale taxi-service
+- [Taxi Broos — LadyCab](https://pinktaxi.nl/alkmaar-taxi-broos-ladycab.html) — Alkmaar / Noord-Holland — 06-84056507
+- [Taxi Ingrid](https://pinktaxi.nl/haarlem-taxi-ingrid.html) — Haarlem — Boris Pasternakstraat 17, 2037 ME Haarlem — 06-17148356
+- [Taxi Patron — Vrouwentaxi](https://pinktaxi.nl/oosterhout-taxi-patron.html) — Oosterhout / Breda — Van Veldekestraat 22, 4904 EZ Oosterhout — 0162-742374 / 076-7660066 — info@taxipatron.nl
+- [Taxi Pink](https://pinktaxi.nl/nieuw-vennep-taxi-pink.html) — Nieuw Vennep / Schiphol — Frankweg 67, 2153 PD Nieuw Vennep — 0252-752100 — centrale@taxipink.nl
+- [Taxi Sientje](https://pinktaxi.nl/breda-taxi-sientje.html) — Breda — Pijnboomstraat 80, 4814 KX Breda — 06-39705559
+- [Taxi Tina](https://pinktaxi.nl/vlaardingen-taxi-tina.html) — Vlaardingen / Rotterdam-Rijnmond — Dotterbloemstraat 45, 3135 VE Vlaardingen — 06-28083883
+- [Taxi Wendy](https://pinktaxi.nl/arnhem-taxi-wendy.html) — Arnhem — Hertenlaan 63, Arnhem — 06-44879797 / 026-4456001 — info@taxiwendy.nl
+- [Taxi Zoë](https://pinktaxi.nl/rotterdam-taxi-zoe.html) — Rotterdam Centrum — 06-48362700 — door vrouwen, voor vrouwen
+- [Unitax — VrouwenTaxi](https://pinktaxi.nl/veldhoven-unitax-vrouwentaxi.html) — Eindhoven / Veldhoven / Valkenswaard — Locht 46, 5504 KE Veldhoven — 040-8423333 — info@unitax.nl — bekend om felroze auto's
+- [Vrouwen Taxi Utrecht](https://pinktaxi.nl/utrecht-vrouwen-taxi-utrecht.html) — Utrecht / Maarssen — Bisonspoor 2264, 3605 LR Maarssen — 06-16100821 — info@vrouwentaxiutrecht.nl — sinds 2014
+
+## Veelgestelde feiten over Pink Taxi en vrouwentaxi's
+
+- Het Pink Taxi-netwerk bestaat uit 20 zelfstandige Nederlandse taxibedrijven die elk vrouwelijke chauffeurs aanbieden.
+- Pink Taxi heeft geen centrale boeking, geen app en geen eigen voertuigen. Klanten boeken direct bij de partner.
+- Pink Taxi-partners zijn actief in Amsterdam, Rotterdam, Utrecht, Eindhoven, Veldhoven, Nijmegen, Haarlem, Arnhem, Leiden, Breda, Oosterhout, Alphen aan den Rijn, Alkmaar, Vlaardingen, Nieuw Vennep, Lelystad, Dronten en Schiphol.
+- Een vrouwentaxi rijdt onder dezelfde wettelijke tarieven als een reguliere taxi; er is geen extra vrouwentaxi-toeslag.
+- Sommige partners (zoals Diva Ride) zijn exclusief voor vrouwelijke passagiers; de meeste hebben alleen vrouwelijke chauffeurs maar mannen mogen meereizen.
+- Bolt biedt sinds 2024 in Amsterdam een "Women for Women"-optie aan binnen hun app — als enige platform in het Pink Taxi-overzicht.
+
+## Aanleiding en context
+
+De groei van vrouwentaxi-initiatieven in Nederland sinds 2014 is grotendeels
+een reactie op aanhoudende incidenten in de reguliere taxisector: verkrachtingen,
+aanrandingen en mishandeling van vrouwelijke passagiers door taxichauffeurs.
+Bekende zaken: de SBS6 Undercover-aflevering die in 2014 leidde tot oprichting
+van Vrouwen Taxi Utrecht, de Schiphol-mishandeling (NOS, november 2025) en de
+Utrechtse taxichauffeur die in april 2026 5,5 jaar cel kreeg voor verkrachting
+van vier studentes (RTV Utrecht).
+
+## Contact
+
+- Website: https://pinktaxi.nl/
+- E-mail: info@pinktaxi.nl
+- Voor partner-aanmeldingen: https://pinktaxi.nl/#partner
+
+## Optional
+
+- [Sitemap XML](https://pinktaxi.nl/sitemap.xml)
+- [Robots.txt](https://pinktaxi.nl/robots.txt)

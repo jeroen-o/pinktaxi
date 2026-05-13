@@ -104,7 +104,25 @@
   </url>
   <url>
     <loc>https://pinktaxi.nl/utrecht-vrouwen-taxi-utrecht.html</loc>
-    <lastmod>2026-04-27</lastmod>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pinktaxi.nl/oosterhout-taxi-patron.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pinktaxi.nl/veldhoven-unitax-vrouwentaxi.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pinktaxi.nl/lelystad-follow-that-cab.html</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
